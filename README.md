@@ -15,6 +15,10 @@ Se decidió utilizar dicha librería por los siguiente beneficios:
 - Personalización flexible, para adecuarse a las lineas de diseño de la empresa.
 - Licencia de código abierto: Chart.js se distribuye bajo la licencia MIT, lo que significa que es de código abierto y gratuito para su uso -en proyectos comerciales y no comerciales.
 
+## Capturas: 
+![Grafico](https://kushki-analytics-front.s3.amazonaws.com/CAPTURAS/Bar.png)
+![Grafico2](https://kushki-analytics-front.s3.amazonaws.com/CAPTURAS/Doughnut.png)
+
 ## Getting Started
 
 First, run the development server:
